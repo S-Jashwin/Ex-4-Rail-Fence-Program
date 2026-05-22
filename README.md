@@ -155,7 +155,7 @@ int main() {
 # OUTPUT
 
 
-<img width="1537" height="869" alt="image" src="https://github.com/user-attachments/assets/f3f6399e-3190-476f-bc5a-06ca03ade126" />
+<img width="1919" height="720" alt="image" src="https://github.com/user-attachments/assets/7dacafb5-2691-432c-90fc-a413d273e75f" />
 
 
 # RESULT
